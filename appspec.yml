@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: /dist
     destination: /home/ec2_user
 hooks:
   BeforeInstall:
