@@ -1,5 +1,5 @@
 #!/bin/bash
-# service httpd start
-cd ~
-pm2 start dist --name vendorforest
+service httpd start
+# cd ~
+# pm2 start dist --name vendorforest
 
