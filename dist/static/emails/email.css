@@ -1,0 +1,104 @@
+/*======================================================== DEFAULT DESIGN ====================================================*/
+.email_wrapp {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  background: #F2F2F2;
+}
+a {
+  color: #07b107;
+}
+.btn_ {
+  border: 2px solid #07b107;
+  background: #07b107;
+  padding: 10px 10px;
+  border-radius: 3px;
+}
+.email_content {
+  width: 600px;
+  background: #fff;
+  margin: 50px auto 50px auto;
+  padding: 15px;
+}
+.email_content_img {
+  clear: both;
+  /* text-align: center; */
+}
+.email_content img {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+.email_content p {
+  font-size: 16px;
+  line-height: 1.8em;
+  margin: 0 15px;
+  color: #777;
+}
+.email_content h3 {
+  padding: 15px;
+  line-height: 1.5em;
+  font-size: 20px;
+  font-weight: 700;
+  color: #222;
+}
+.email_content h4 {
+  /* padding: 15px; */
+  font-size: 17px;
+}
+
+
+/*=================================================== END DEFAULT DESIGN ====================================================*/
+
+.class_avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 3px;
+  float: left;
+  border: 1px solid #f2f2f2;
+  margin-right: 15px;
+}
+.class_content {
+  overflow: hidden;
+  line-height: 1.8em;
+  width: 83%;
+  position: relative;
+  margin: 0 0 40px 0;
+}
+.view_btn {
+  position: absolute;
+  border: 1px solid #07b107;
+  padding: 5px 25px;
+  border-radius: 3px;
+  top: 0;
+  right: 0;
+}
+.pro_btn {
+  background-color: #07b107;
+  color: #fff;
+  border-radius: 3px;
+  padding: 3px 10px;
+}
+.contract_details ul {
+  padding: 15px;
+  margin: 0;
+  list-style: none;
+}
+.contract_details li {
+  position: relative;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 15px 0;
+  overflow: hidden;
+}
+.contract_details li .left{
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+  text-align: left;
+}
+.contract_details li .right{
+  width: 50%;
+  box-sizing: border-box;
+  float: right;
+  text-align: right;
+}

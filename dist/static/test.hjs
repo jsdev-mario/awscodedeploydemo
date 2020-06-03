@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<body>
+    <div>
+        {{title}}
+    </div>
+    <div>
+        {{description}}
+    </div>
+</body>

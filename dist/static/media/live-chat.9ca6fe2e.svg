@@ -1,0 +1,22 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="19.715" height="13.965" rx="1.643"/>
+    <rect id="b" width="29.573" height="20.947" rx="2.464"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h40v40H0z"/>
+    <g transform="matrix(-1 0 0 1 39.43 4)" fill="#C8D3DD">
+      <use xlink:href="#a"/>
+      <path d="M3.347 13.304l-.542 4.835a.41.41 0 0 0 .699.336l5.171-5.17"/>
+    </g>
+    <g transform="translate(0 7.697)" fill="#F4F7FB">
+      <use xlink:href="#b"/>
+      <path d="M5.02 19.956l-.812 7.253a.616.616 0 0 0 1.048.504l7.756-7.757"/>
+    </g>
+    <g transform="translate(4.313 16.322)" fill="#07b107">
+      <circle cx="2.156" cy="2.156" r="2.156"/>
+      <circle cx="18.791" cy="2.156" r="2.156"/>
+      <circle cx="10.782" cy="2.156" r="2.156"/>
+    </g>
+  </g>
+</svg>
