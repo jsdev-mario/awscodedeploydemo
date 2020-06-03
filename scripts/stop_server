@@ -3,5 +3,6 @@
 # if [[ -n  $isExistApp ]]; then
 #     service httpd stop        
 # fi
+cd ~
 pm2 stop 0
 
