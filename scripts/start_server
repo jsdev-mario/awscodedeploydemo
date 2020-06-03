@@ -1,4 +1,4 @@
 #!/bin/bash
 # service httpd start
 npm install
-nodemon index.js
+pm2 index.js --name vendorforest
