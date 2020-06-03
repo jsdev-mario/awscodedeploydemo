@@ -1,0 +1,161 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/public/index.js
+/public/vendors~index.js
+
+.idea
+.vscode
+
+# misc
+.env
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+prod/index.js
+prod/precache-manifest.89ce434a7edcee564c3a324daa8eee46.js
+prod/precache-manifest.242c97788d4d7c62efd65ff096af4eda.js
+prod/service-worker.js
+prod/static/asset-manifest.json
+prod/static/custom-sw.js
+prod/static/email_cancelation.html
+prod/static/email_client_welcome.html
+prod/static/email_dispute_issue.html
+prod/static/email_hire.html
+prod/static/email_invite.html
+prod/static/email_job_completed.html
+prod/static/email_join_team_invite.html
+prod/static/email_leave_review.html
+prod/static/email_message_notification.html
+prod/static/email_new_jobs_arround_area.html
+prod/static/email_payment_completed.html
+prod/static/email_payment_request.html
+prod/static/email_team_apply.html
+prod/static/email_team_invite.html
+prod/static/email_template.html
+prod/static/email_vendor_apply.html
+prod/static/email_vendor_welcome.html
+prod/static/email.css
+prod/static/index.css
+prod/static/index.ejs
+prod/static/test.hjs
+prod/static/_img/controls.png
+prod/static/_img/headerbg.png
+prod/static/_img/pettran-01.jpg
+prod/static/emails/email.css
+prod/static/emails/index.css
+prod/static/js/main.6c0f1608.chunk.js
+prod/static/js/runtime.124e90a3.js
+prod/static/js/vendors.7528b501.chunk.js
+prod/static/js/vendors.7528b501.chunk.js.LICENSE
+prod/static/media/Additions & Remodels.5037bcd4.png
+prod/static/media/Appliances.ca171ab6.png
+prod/static/media/Architectural & Engineering Services.8450c817.png
+prod/static/media/Beauty.ab12379f.png
+prod/static/media/bid_big.5b332370.svg
+prod/static/media/bid.24165ddf.svg
+prod/static/media/browse-portfolios.04fea7be.svg
+prod/static/media/Carpentry & Woodworking.db1db087.png
+prod/static/media/Cleaning.663bbbe0.png
+prod/static/media/Coaching.ef0604de.png
+prod/static/media/Concrete, Cement, & Asphalt.916d4991.png
+prod/static/media/controls.75e5868a.png
+prod/static/media/Counseling.d36dea98.png
+prod/static/media/Countertop.58c531cb.png
+prod/static/media/Crafts.9a869e6b.png
+prod/static/media/Design & Decor 2.9e646eb8.png
+prod/static/media/Design & Decor.04c0b958.png
+prod/static/media/Doors.2fbd652f.png
+prod/static/media/Electrical.dca0dddb.png
+prod/static/media/Event Entertainment.4505189c.png
+prod/static/media/Event Staff.1ce42ed9.png
+prod/static/media/Exercise.e254a508.png
+prod/static/media/facebook.2fb9bb50.svg
+prod/static/media/feedbackicon_1.8f1864dd.png
+prod/static/media/feedbackicon_2.0ce2e4bf.png
+prod/static/media/feedbackicon_3.eff0c84e.png
+prod/static/media/feedbackicon_4.d7eaa84f.png
+prod/static/media/feedbackicon_5.dbc5560f.png
+prod/static/media/feedbackicon_6.6bcd1236.png
+prod/static/media/Flooring.af895886.png
+prod/static/media/Food.ecf1eed5.png
+prod/static/media/Furniture.b76e57cd.png
+prod/static/media/General Contracting.51a60aa5.png
+prod/static/media/getpaid_big.43ef9387.svg
+prod/static/media/getpaid.7bf426a5.svg
+prod/static/media/Gutters.37cecb25.png
+prod/static/media/hands-putting-puzzle-pieces-vector-22340101.333c0320.jpg
+prod/static/media/Handyman.19fa8894.png
+prod/static/media/headerbg.ce9e46f2.png
+prod/static/media/Heating & Cooling.99e60711.png
+prod/static/media/Home Security.6b1dec8c.png
+prod/static/media/Home Theater.20e933bb.png
+prod/static/media/House Sitting.bd4186fb.png
+prod/static/media/icons_Events.0e05d978.png
+prod/static/media/icons_Home.7dbfbacc.png
+prod/static/media/icons_Venue.9380f72a.png
+prod/static/media/icons_Weddings.91ec7131.png
+prod/static/media/icons_Wellness.fa33ac59.png
+prod/static/media/Inspections.39bf790f.png
+prod/static/media/instagram.fb24a0ec.svg
+prod/static/media/Landscaping.baca577c.png
+prod/static/media/Lawncare.100beed3.png
+prod/static/media/Lighting.c7813167.png
+prod/static/media/live-chat.9ca6fe2e.svg
+prod/static/media/logo.b63a3c56.svg
+prod/static/media/Material Processing.7675abc2.png
+prod/static/media/Moving.db55f01b.png
+prod/static/media/Music & Dance.99433e65.png
+prod/static/media/Outdoor Structures.9e382213.png
+prod/static/media/Painting.6f51243f.png
+prod/static/media/Party Rentals.85a856f8.png
+prod/static/media/pay.ed67528e.svg
+prod/static/media/Pest Control.166e2d33.png
+prod/static/media/pettran.be18404a.jpg
+prod/static/media/Photography.53ab9fa4.png
+prod/static/media/Planning.a55ed514.png
+prod/static/media/Plumbing.8c3f81f5.png
+prod/static/media/Pools, Hot Tubs, & Spas.f6770298.png
+prod/static/media/post_big.8a772258.svg
+prod/static/media/post.4e1c7dc1.svg
+prod/static/media/profileplace.32deef81.png
+prod/static/media/Property Services.ac3c4e2b.png
+prod/static/media/Roofing.d63aa7cf.png
+prod/static/media/Siding.9ea88967.png
+prod/static/media/Site Preparation.218a74b1.png
+prod/static/media/Spa Services.d28757b9.png
+prod/static/media/Spiritual Healing.b73cb18f.png
+prod/static/media/str_link_button.e95f2d63.png
+prod/static/media/Tiling.01199227.png
+prod/static/media/Transportation.1ec87f30.png
+prod/static/media/twitter.eff1014a.svg
+prod/static/media/venue category.916d4991.png
+prod/static/media/Videography.88b0fd2f.png
+prod/static/media/view-bids.5aef3af1.svg
+prod/static/media/Walls, Framing, & Stairs.41f9a724.png
+prod/static/media/Windows.380f316d.png
+prod/static/media/work_big.edc50948.svg
+prod/static/media/work.540c1ab7.svg
+public/index.ejs
+public/_img/controls.png
+public/_img/headerbg.png
+public/_img/pettran-01.jpg
+public/_img /controls.png
+public/_img /headerbg.png
+public/_img /pettran-01.jpg
