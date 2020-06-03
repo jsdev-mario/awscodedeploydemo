@@ -1,5 +1,5 @@
 #!/bin/bash
-yum install -y httpd
+# yum install -y httpd
 # curl -sL https://rpm.nodesource.com/setup_10.x | sudo bash -
 # yum install nodejs
 # npm install -g yarn
